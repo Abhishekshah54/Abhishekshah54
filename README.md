@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Abhishek Shah 👋<br>I’m a BCA student passionate about building real-world tech solutions and exploring new technologies.<br><br>🔭 I’m currently working on AI-powered and web-based projects<br>💡 Interested in Artificial Intelligence, Data Analysis & Automation<br>🛠️ I build projects using Python, Flask, Django, and R<br>📊 I enjoy data visualization and stock market analysis<br>🚀 Always exploring new AI tools and tech trends
+Hi, I'm Abhishek Shah 👋<br>I’m a BCA graduate & Full Stack Engineer passionate about building scalable, real-world applications and exploring modern technologies.<br><br>🔭 I build full stack web applications and AI-powered systems<br>💡 Strong interest in Artificial Intelligence, Automation & Data Analysis<br>🛠️ Experienced with Python, Flask, Django, and frontend technologies<br>📊 I enjoy data visualization and stock market analysis<br>🚀 Continuously improving my skills in modern full stack development
 
 
 ## 🌐 Socials:
